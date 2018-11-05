@@ -1,6 +1,6 @@
 # Data Journalism and D3
 
-![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
+![Newsroom](https://media0.giphy.com/media/l2SpYYAOqmCFlwULe/giphy.gif?cid=3640f6095bdf9d0c5756722e412a081b)
 
 ## Project Overview
 
